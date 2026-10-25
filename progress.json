@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:51:43.969Z",
+  "generated_at": "2026-10-25T19:52:23.604Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -157,6 +157,19 @@
       "last_pushed_at": "2026-10-25T19:51:43.261Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-10-25T19:52:23.010Z",
+      "last_pushed_at": "2026-10-25T19:52:23.010Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
