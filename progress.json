@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:35:47.459Z",
+  "generated_at": "2026-10-26T10:36:26.160Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -292,6 +292,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-26T10:35:46.844Z",
       "last_pushed_at": "2026-10-26T10:35:46.844Z"
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-10-26T10:36:25.402Z",
+      "last_pushed_at": "2026-10-26T10:36:25.402Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
