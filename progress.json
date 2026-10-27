@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:50:28.019Z",
+  "generated_at": "2026-10-27T08:53:19.853Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -377,6 +377,19 @@
       "path": "problems/0313-numerical-gradient-checking",
       "first_solved_at": "2026-10-27T08:50:27.432Z",
       "last_pushed_at": "2026-10-27T08:50:27.432Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:990": {
+      "kind": "problem",
+      "id": "990",
+      "title": "Learning Rate Range Finder for Linear Regression",
+      "difficulty": "easy",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/990",
+      "path": "problems/0990-learning-rate-range-finder-for-linear-regression",
+      "first_solved_at": "2026-10-27T08:53:19.222Z",
+      "last_pushed_at": "2026-10-27T08:53:19.222Z",
       "language": "python",
       "lines": 22
     }
