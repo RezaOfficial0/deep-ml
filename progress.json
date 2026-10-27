@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:53:31.933Z",
+  "generated_at": "2026-10-27T08:41:19.654Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -327,6 +327,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-26T10:53:30.760Z",
       "last_pushed_at": "2026-10-26T10:53:30.760Z"
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-10-27T08:41:18.935Z",
+      "last_pushed_at": "2026-10-27T08:41:18.935Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
